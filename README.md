@@ -5,7 +5,7 @@ Comparison of MNIST handwritten digits classsifiers including ANN, CNN and SVM
 * Importing the neccessary libraries
 * Importing the MNIST handwritten digits dataset using the keras library
 * Scaling and flattening the data to improve accuracy and ensure to prevent errors as some models mandate the use of single column arrays as inputs
-* Hyperparameter tuning of SVM using GridSearchCBV
+* Hyperparameter tuning of SVM using GridSearchCV
 * SVM model fitting and determination of accuracy
 * KNN model fitting and determination of accuracy
 * ANN model without hidden layer creation, training and measurement of accuracy
